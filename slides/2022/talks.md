@@ -26,7 +26,7 @@
 | Title         | Speaker(s) |
 | ------------- | ------------- |
 | [The Need for a Layer-two Network in Monero](https://github.com/MoneroKon/meta/raw/main/slides/2022/seth.pdf) | Seth for Privacy |
-| [Why Multisig is Important – And How to do it Right](https://github.com/MoneroKon/meta/raw/main/slides/2022/luke-parker-1.pdf) | Luke Parker (kayabaNerve) |
+| [Why Multisig is Important – And How to do it Right](https://raw.githubusercontent.com/kayabaNerve/presentations/main/Why%20Multisig%20Is%20Important%20-%20And%20How%20To%20Do%20It%20Right.pdf) | Luke Parker (kayabaNerve) |
 | [On The Security and Ecological Sustainability of Monero](https://github.com/MoneroKon/meta/raw/main/slides/2022/articmine.pdf) | Francisco Cabañas (ArticMine) |
 | A  Legal Perspective on the Fundamental Right to Privacy | Adella Toulon-Foerster (bitcoinkhaleesi) |
 | DarkFi: Anonymous Engineering for Dank Net Markets | Amir Taaki
