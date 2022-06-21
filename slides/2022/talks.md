@@ -16,10 +16,10 @@
 | [The Consequences of Consequentialism: How the Trolley-switchers Derailed Decentralization](https://github.com/MoneroKon/meta/raw/main/slides/2022/edwin-den-boer.pdf) | Edwin den Boer |
 | [User perceived privacy in blockchain](https://github.com/MoneroKon/meta/raw/main/slides/2022/simin-ghesmati.pdf) | Simin Ghesmati |
 | [The MAGIC Monero Fund – A Simple Way to Donate to Monero](https://github.com/MoneroKon/meta/raw/main/slides/2022/luke-parker-2.pdf) | Luke Parker (kayabaNerve) |
-| What's next for Cake Wallet and Monero.com | Justin Ehrenhofer |
+| [What's next for Cake Wallet and Monero.com](https://github.com/MoneroKon/meta/raw/main/slides/2022/sgp.pdf) | Justin Ehrenhofer |
 | [Partial Linkable Spontaneous Anonymous Group (PLSAG) signatures for Monero](https://github.com/MoneroKon/meta/raw/main/slides/2022/haruto-yamamoto.pdf) | Haruto Yamamoto |
 | The Role of XMR in Portuguese Freedom-based Economies | Mr P, Libre, MRPT and Nala |
-| Make Monero Peer to Peer Again! How Crypto Dealers will Return Crypto to its Cypherpunk Roots | Juraj Bednar |
+| [Make Monero Peer to Peer Again! How Crypto Dealers will Return Crypto to its Cypherpunk Roots](https://github.com/MoneroKon/meta/raw/main/slides/2022/juraj-bednar.pdf) | Juraj Bednar |
 
 ### Day 2 (19 June 2022)
 
