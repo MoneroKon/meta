@@ -29,7 +29,7 @@
 | [Why Multisig is Important – And How to do it Right](https://github.com/MoneroKon/meta/raw/main/slides/2022/luke-parker-1.pdf) | Luke Parker (kayabaNerve) |
 | [On The Security and Ecological Sustainability of Monero](https://github.com/MoneroKon/meta/raw/main/slides/2022/articmine.pdf) | Francisco Cabañas (ArticMine) |
 | A  Legal Perspective on the Fundamental Right to Privacy | Adella Toulon-Foerster (bitcoinkhaleesi) |
-| DarkFi: Anonymous Engineering for Dank Net Markets - Amir Taaki
+| DarkFi: Anonymous Engineering for Dank Net Markets | Amir Taaki
 | [The Global Opportunist Handbook](https://github.com/MoneroKon/meta/raw/main/slides/2022/pavol.pdf) | Pavol Wilder Lupták |
 | [Bisq: On the Privacy Cost of Participation](https://github.com/MoneroKon/meta/raw/main/slides/2022/liam-hickey.pdf) | Martin Harrigan, Liam Hickey |
 | [Regulations: Navigating the Conundrum of the Crypto Space](https://github.com/MoneroKon/meta/raw/main/slides/2022/individual-1.pdf) | Individual-1 |
