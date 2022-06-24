@@ -33,6 +33,6 @@
 | [The Global Opportunist Handbook](https://github.com/MoneroKon/meta/raw/main/slides/2022/pavol.pdf) | Pavol Wilder Lupták |
 | [Bisq: On the Privacy Cost of Participation](https://github.com/MoneroKon/meta/raw/main/slides/2022/liam-hickey.pdf) | Martin Harrigan, Liam Hickey |
 | [Regulations: Navigating the Conundrum of the Crypto Space](https://github.com/MoneroKon/meta/raw/main/slides/2022/individual-1.pdf) | Individual-1 |
-| [Seraphis Balance Recovery](https://github.com/MoneroKon/meta/raw/main/slides/2022/koe.pdf) | koe |
+| [Seraphis Balance Recovery](https://github.com/MoneroKon/meta/raw/main/slides/2022/Seraphis%20Balance%20Recovery.pdf) | koe |
 | [Privacy as Invisibility (by Default): Bridging the Gap between Anarcho-Capitalists and Cypherpunks](https://github.com/MoneroKon/meta/raw/main/slides/2022/andrea-togni.pdf) | Andrea Togni |
 | [Seraphis/Jamtis: Feature overview of the proposed upgrade to Monero](https://github.com/MoneroKon/meta/raw/main/slides/2022/j-berman.pdf) | Justin Berman |
