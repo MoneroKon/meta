@@ -3,12 +3,6 @@
 **La Fabrika, Bar - Chill Area**
 ![](https://repo.getmonero.org/ajs/meta/-/raw/main/pics/bar.jpeg)
 
-**La Fabrika, Studio 1 - Talks**
-![](https://repo.getmonero.org/ajs/meta/-/raw/main/pics/room1-1.jpeg)
-
-**La Fabrika, Studio 2- Workshops/Chill Area/Sponsor Area**
-![](https://repo.getmonero.org/ajs/meta/-/raw/main/pics/studio2.jpeg)
-
 **Sponsor Floorplan**
 
 ![](https://repo.getmonero.org/ajs/meta/-/raw/main/pics/sponsors.png)
