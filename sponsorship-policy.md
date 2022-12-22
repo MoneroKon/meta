@@ -2,7 +2,7 @@
 
 ### Our vision and mission
 
-Monero Konferenco (“MoneroKon”) is an open and welcoming conference that seeks to create a fun and conducive environment for the free exchange ideas. We rely on the generosity of anonymous donors of the Monero community and sponsors to achieve our funding goals. As a not-for-profit, grassroots, decentralized initiative, organizers, speakers, and attendees of MoneroKon have a variety of political, social, and economic views, but we all come together for the common purpose of advancing a peer-to-peer electronic cash system that is private by default, decentralized, and secure.
+Monero Konferenco (“MoneroKon”) is an open and welcoming conference that seeks to create a fun and conducive environment for the free exchange ideas. We rely on the generosity of anonymous donors of the Monero community and sponsors to achieve our funding goals. MoneroKon participants have a variety of political, social, and economic views. However, we all come together for the common purpose of advancing a peer-to-peer electronic cash system that is private by default, decentralized, and secure.
 
 This policy has been devised to ensure clarity and openness in the sponsorship selection process. 
 
