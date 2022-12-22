@@ -35,5 +35,5 @@ MoneroKon will respectfully decline sponsorship offers from businesses that:
 8. If the number is negative or 0, company is rejected
 9. The representative informs company of result of the vote.
 10. If company is accepted as a sponsor, sponsorship slots are allocated to companies on a _first come, first served_ basis
-11. DR will send out an invoice for the selected sponsorship package within 5 business days.
-12. After DR has confirmed the payment of the invoice, the company is added to the MoneroKon website as a sponsor and a public acknowledgement will be tweeted out from @monerokon account.
+11. Digital Renegades ApS (an LLC MoneroKon is using for contracting with the venue and suppliers) will send out an invoice for the selected sponsorship package within 5 business days.
+12. After Digital Renegades ApS has confirmed the payment of the invoice, the company is added to the MoneroKon website as a sponsor and a public acknowledgement will be tweeted out from @monerokon account.
