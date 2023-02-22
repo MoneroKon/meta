@@ -40,4 +40,4 @@ MoneroKon will respectfully decline sponsorship offers from businesses that:
 
 ### Sponsor Expulsion
 
-Any anytime, if facts or circumstances call in to question the reliability, integrity of a sponsor, or through acts/omissions violate the Monero Konferenco Guiding Principles, the sponsor may be expelled by majority vote in a community meeting. Any monetary or in-kind products/services contributions shall be returned to the sponsor and all references to said sponsor expunged from Monero Konferenco website and marketing materials.
+At anytime, if facts or circumstances call in to question the reliability, integrity of a sponsor, or through acts/omissions violate the Monero Konferenco Guiding Principles, the sponsor may be expelled by majority vote in a community meeting. Any monetary or in-kind products/services contributions shall be returned to the sponsor and all references to said sponsor expunged from Monero Konferenco website and marketing materials.
