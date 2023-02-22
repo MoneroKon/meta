@@ -37,3 +37,7 @@ MoneroKon will respectfully decline sponsorship offers from businesses that:
 10. If company is accepted as a sponsor, sponsorship slots are allocated to companies on a _first come, first served_ basis
 11. Digital Renegades ApS (an LLC MoneroKon is using for contracting with the venue and suppliers) will send out an invoice for the selected sponsorship package within 5 business days.
 12. After Digital Renegades ApS has confirmed the payment of the invoice, the company is added to the MoneroKon website as a sponsor and a public acknowledgement will be tweeted out from @monerokon account.
+
+### Sponsor Expulsion
+
+Any anytime, if facts or circumstances call in to question the reliability, integrity of a sponsor, or through acts/omissions violate the Monero Konferenco Guiding Principles, the sponsor may be expelled by majority vote in a community meeting. Any monetary or in-kind products/services contributions shall be returned to the sponsor and all references to said sponsor expunged from Monero Konferenco website and marketing materials.
