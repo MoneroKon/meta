@@ -8,7 +8,7 @@ The organizers of MoneroKon aim to have an open, friendly, and welcoming place i
 
 ## Unwanted behaviour
 
-Unwanted behaviour could lead to a distribution in the daily operations and/or planning of MoneroKon, therefore, we do not tolerate: 
+Unwanted behaviour could lead to a disruption in the daily operations and/or planning of MoneroKon, therefore, we do not tolerate: 
 
 1. Unlawful content/activities under Swedish law;
 2. Discrimination based on faith, ethnicity, sexual orientation, sex or gender expression, disability, or age;
@@ -33,7 +33,7 @@ Do not demand - participate instead. If you have a problem or question, try to g
 
 For complex topics that require in-depth discussions, opening a GitHub issue in MoneroKon meta repo would be a better forum to flesh out the details. https://github.com/MoneroKon/meta/issues
 
-We recommend not pasting multiple lines into a channel. You should use an external pastebin service for larger sections of text.
+We recommend not pasting multiple lines into a channel. You should use an external pastebin service for larger sections of text. E.g., https://paste.sethforprivacy.com 
 
 ## Text based communications, intentions and misunderstandings
 
