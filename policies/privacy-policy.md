@@ -1,92 +1,124 @@
-## Monero Konferenco Privacy Policy
+## MoneroKon Privacy Policy
 
-This privacy policy will explain how our organization uses the personal data we collect from you when you use our website.
+This Privacy Policy is effective as of **27 January 2024**.
+ 
+### 1. Who we are
 
-## Topics:
+Twisted Edwards z.s. (“we” or “us”) is a non-profit association, registered in the Czech Republic. We are primarily responsible for the planning, coordination, and production of MoneroKon (https://www.monerokon.org). We are data controllers, as defined by Regulation (EU) 2016/679 (GDPR).
 
-    What data do we collect?
-    How do we collect your data?
-    How will we use your data?
-    How do we store your data?
-    Marketing
-    What are your data protection rights?
-    What are cookies?
-    How do we use cookies?
-    What types of cookies do we use?
-    How to manage your cookies
-    Privacy policies of other websites
-    Changes to our privacy policy
-    How to contact us
+For further information, we can be contacted at orga+gdpr@monerokon.org. We can also be contacted using the details below.
 
-## What data do we collect?
+Address of the controller:
 
-Our Organization collects the following data:
+**Twisted Edwards z.s.**, Rybná 716/24, Staré Město, 110 00 Praha 1, Czechia
 
-    Personal identification information: Name and/or e-mail address.
 
-## How do we collect your data?
+Signal: +420 703-981-539
 
-You directly provide Our Organization with most of the data we collect. We collect data and process data when you:
+ID: 21147787
 
-    Register online or place an order for any of our products or services.
-    Voluntarily complete a customer survey or provide feedback on any of our message boards or via e-mail.
+Registered in commercial register maintained by Municipal court in Prague under file num. L 78655
+ 
+### 2. Scope of this Privacy Policy
 
-## How will we use your data?
+This Privacy Policy aims at informing website visitors, volunteers, event participants, sponsors, and other stakeholders about what data we collect and how it is processed. We are committed to processing personal data responsibly, securely, and proportionally throughout our activities, and wish to maintain respect for your data protection, and privacy, rights throughout our activities.
+ 
+### 3. Personal data we collect
 
-Our Organization collects your data so that we can:
+We collect personal data directly from individuals in a variety of ways, including:
 
-    Process your order.
-    
-    When Customer uses a credit card for orders, Our Organization may send your data to, and also use the resulting information from, credit reference agencies to prevent fraudulent purchases.
+**Website visitors**
 
-## How do we store your data?
+We collect aggregated data regarding usage and navigation of our website, including how you browse the site, the number of clicks you make, and the length of time you spend on the site.
+ 
+**Website registrants**
 
-Our Organization securely stores your data on our servers and [GDPR-compliant](https://www.sendinblue.com/gdpr/) [Sendinblue](https://www.sendinblue.com) e-mail platform.
+When registering on our website, we collect data related to your account and interactions in forums such as name, email, profile pictures, text, any images you willingly upload, and IP addresses.
+ 
+**Event participants**
 
-Our Organization will keep your data for up to 6 months. Soon after our conference has ended, we will delete your data from all our systems.
+We collect payment related data for ticket sales, including names, emails, and payment details (transaction information and/or credit card details).
 
-## Marketing
+When registering on the site, either as a user or potential speaker/volunteer, we collect  data such as name, email, and pseudonym.
 
-Our Organization does not use your data for marketing.
+We collect data related to your application such as code, proposal text, documents, or any other files you willingly upload. This may include (if you upload one) a profile picture.
+ 
+We only process this personal data in a way that is compatible with, and relevant to, the purpose for which it was collected.
+ 
+### 4. Why we collect this data
 
-## What are your data protection rights?
+We collect the data outlined above to provide services concerning your interaction and involvement with us.
 
-Our Organization would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+For example, we may use your contact information to respond to questions, inform you about changes to our services, other MoneroKon events, or communicate about your contributions and resolve technical issues you encounter.
 
-- The right to access – You have the right to request Our Organization for copies of your personal data.
-- The right to rectification – You have the right to request that Our Organization correct any information you believe is inaccurate. You also have the right to request Our Organization to complete the information you believe is incomplete.
-- The right to erasure – You have the right to request that Our Organization erase your personal data.
-- The right to restrict processing – You have the right to request that Our Organization restrict the processing of your personal data, under certain conditions.
-- The right to object to processing – You have the right to object to Our Organization’s processing of your personal data, under certain conditions.
-- The right to data portability – You have the right to request that Our Organization transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+We may also use information provided to us about your proposal to conduct assessments, create event programmes, or contact you with queries and questions regarding your talk or workshop.
 
-If you make a request, we have one month to respond to you.
+We use payment related information to ensure that you receive your ticket in an ordinary manner, as is expected from a ticket sales service.
 
-## Cookies
+We use your interactions with our forums to ensure you are able to communicate with us, and other members of our community.
+ 
+### 5. Legal basis for collection and processing
 
-Cookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology.
+We rely on a combination of legal basis for the collection of your data. Primarily, the legal basis we rely on are detailed within the GDPR, Article 6. To be more specific, we rely on:
 
-For further information, visit allaboutcookies.org.
+1. GDPR Art. 6(1)(f) (legitimate interests).
+2. GDPR Art. 6(1)(b) (performance of a contract).
+3. Where the above do not apply
+a. GDPR Art 6(1)(a) (consent).
 
-## How do we use cookies?
+If we rely on consent, we will explicitly ask you for your permission to collect and process your data.
+ 
+### 6. Data shared with third parties
 
-Our Organization uses cookies in a range of ways to improve your experience on our website, including:
+We do not sell, trade, or otherwise transfer personal data to third parties.
 
-    Saving items added to cart before check out.
+### 7. How we protect personal data
 
-## What types of cookies do we use?
+We have put appropriate technical and organisational security policies and procedures in place to protect personal data (including sensitive personal data) from loss, misuse, alteration or destruction.
 
-    Functionality – Our Organization uses these cookies so that we recognize you on our website and remember your previously selected preferences and order items.
-    
-## How to manage cookies
+We aim to ensure that access to your personal data is password protected.
 
-    You can set your browser not to accept cookies. However, in a few cases, some of our website features may not function as a result.
+We encrypt all data stored at our central location and data is restricted only to those who need to access it. Those individuals who have access to the data are required to maintain the confidentiality of such information.
 
-Our Organization keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 14 February 2023.
-How to contact us
+We install and regularly update all security and anti-virus software in use on all of our systems.
 
-If you have any questions about Our Organization’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
+Please be aware that the transmission of data via the Internet is not completely secure. Whilst we do our best to try to protect the security of your personal data, we cannot ensure or guarantee the security of your data transmitted to our site.
 
-E-mail us at: gdpr@monerokon.com
+### 8. Cookies
 
-Should you wish to report a complaint or if you feel that Our Organization has not addressed your concern in a satisfactory manner, you may contact the Information Commissioner’s Office.
+We do not use cookies on our website or services.
+
+### 9. Marketing
+
+We would like to send you emails regarding event marketing. We will ask your permission to do so. If you have agreed to receive these, you may always opt out. You have the right at any time to stop us from contacting you for information or marketing purposes
+
+### 10. Collection of information from minors
+
+We do not knowingly collect data from, or market to children under 18 years of age. By using our services, you represent that you are at least 18, or that you are the parent or guardian  of a minor and give explicit consent to the use of our services.
+
+### 11. Retention of personal data
+
+We retain the data we collect for as long as we need to provide services to you., or as required to comply with our legal obligations. After such time, we will delete, de-identify, or aggregate this information within 30 days.
+
+If you have an account on our services, we will retain your data for as long as your account is active or as needed to perform our contractual obligations, comply with legal obligations, resolve disputes, preserve legal rights, or enforce our agreements.
+ 
+We will delete, de-identify, or aggregate this information to the extent possible once it is no longer necessary to fulfil the purposes for which it was collected.
+
+### 12. Your data protection rights
+
+Subject to certain exceptions and limitations, you may have the right:
+- to request information regarding the processing of your personal data by us;
+- to obtain the rectification of any inaccurate personal data stored by us;
+- to obtain the erasure of your personal data stored by us;
+- to obtain the restriction of processing of your personal data;
+- to receive a copy of your personal data in a structured, commonly used and machine-readable format, or to demand transmission to another controller;
+- to withdraw your consent once given to us at any time.
+
+### 13. Privacy policies of other websites
+
+This privacy policy applies only to our website, and the services we provide to you. If you click on a link to another website, you should read their privacy policy.
+
+### 14. Changes to our Privacy Policy
+
+If we decide to change our Privacy Policy, we will post changes on this page. We encourage you to visit this page periodically to learn of any updates. Your continued use of our services after an updated Privacy Policy is posted constitutes your consent to the revised Privacy Policy.
+ 
