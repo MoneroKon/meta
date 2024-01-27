@@ -72,6 +72,8 @@ If we rely on consent, we will explicitly ask you for your permission to collect
 
 We do not sell, trade, or otherwise transfer personal data to third parties.
 
+We use an email delivery service offered by [Mailjet](https://www.mailgun.com) to send out automated transactional emails to users for password resets, order confirmations, ticket delivery, proposal submission confirmations, and event update notifications. Mailjet complies with EU data protection laws, including the [GDPR](https://www.mailgun.com/gdpr/).
+
 ### 7. How we protect personal data
 
 We have put appropriate technical and organisational security policies and procedures in place to protect personal data (including sensitive personal data) from loss, misuse, alteration or destruction.
