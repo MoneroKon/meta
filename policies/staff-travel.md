@@ -8,7 +8,7 @@ This policy outlines the guidelines and procedures for reimbursing travel costs 
 
 In order to be eligible to request travel cost reimbursement, the following two conditions must be met:
 - Worked at least 15 hours during the event
-- Have attended the majority of weekly planning meetings held in IRC/Matrix #monero-events
+- Have attended the majority of weekly planning meetings held in IRC/Matrix #monerokon
 
 ### 3. Expenses
 
@@ -18,13 +18,13 @@ Travel expenses eligible for reimbursement include:
 - **Accommodation**: Standard economy hotel or hostel stay during the event for a maximum of N + 2 nights (N being the number of days of the event)
 - **Meals**: meal expenses. Maximum 30 EUR per day.
 
-Staff are expected to incur only reasonable and necessary expenses. A request for reimbursement of expenses that are deemed excessive or unrelated to the event maybe denied by majority vote in the weekly planning meeting held in IRC/Matrix #monero-events.
+Staff are expected to incur only reasonable and necessary expenses. A request for reimbursement of expenses that are deemed excessive or unrelated to the event maybe denied by majority vote in the weekly planning meeting held in IRC/Matrix #monerokon.
 
-A traveller may only have one carry-on and/or one checked bag unless additional luggage costs are pre-approved by majority vote in the weekly planning meeting held in IRC/Matrix #monero-events.
+A traveller may only have one carry-on and/or one checked bag unless additional luggage costs are pre-approved by majority vote in the weekly planning meeting held in IRC/Matrix #monerokon.
 
 ### 4. Reimbursement Procedure
 
-Staff must obtain pre-approval by majority vote for estimated airfare and hotel expenses during a weekly planning meeting held in IRC/Matrix #monero-events.
+Staff must obtain pre-approval by majority vote for estimated airfare and hotel expenses during a weekly planning meeting held in IRC/Matrix #monerokon.
 
 Within 14 days after the event ends, the Staff must upload an invoice of itemized expenses to https://invoice.monerokon.org with an XMR address for payment. 
 
@@ -32,6 +32,6 @@ For itemized expenses with a value of 150 EUR or more, a copy receipts or other 
 
 All personal information should be redacted from invoice and supporting documents.
 
-Invoice will be reviewed and approved by majority vote in weekly planning meetings held in IRC/Matrix #monero-events.
+Invoice will be reviewed and approved by majority vote in weekly planning meetings held in IRC/Matrix #monerokon.
 
 Once approved, the Financial Committee (multisig wallet signers) will pay the invoice within 7 days of approval.
