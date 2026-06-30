@@ -108,8 +108,8 @@ The Organiser's annual remuneration for an Edition is
 
 where —
 
-- **(a)** *W* is the median hourly wage for "meeting, convention, and event planners" most recently published by the U.S. Bureau of Labor Statistics in its Occupational Outlook Handbook at the time the budget for the Edition is approved;
-- **(b)** *F* is the inflation factor bridging the wage's reference month to the Edition's reference month, being CPI-U at the Edition's reference month divided by CPI-U at the wage's reference month, and equal to 1 where the published wage is already current to the Edition;
+- **(a)** *W* is the applicable benchmark hourly labour rate at the time the budget for the Edition is approved. For an Organiser based in the United States, *W* is the [median hourly wage for “meeting, convention, and event planners”](https://www.bls.gov/ooh/Business-and-Financial/Meeting-convention-and-event-planners.htm) most recently published by the U.S. Bureau of Labor Statistics in its Occupational Outlook Handbook. For an Organiser based in the European Union, W is the average hourly labour cost in the Member State where the Organiser resides or is incorporated, as most recently reported by [Eurostat in its "Wages and labour costs" statistics⁠](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Wages_and_labour_costs#Labour_costs) report.
+- **(b)** *F* is the inflation factor from the wage or labour cost reference month to the Edition's reference month, calculated using CPI-U for a U.S. Organiser and Eurostat HICP for an EU Organiser. *F* equals 1 if the figure is already current to the Edition;
 - **(c)** *u* is the contractor uplift, fixed at 1.30;
 - **(d)** *h* is the contracted hours per week, being 20 unless the Council sets a different figure for the Edition; and
 - **(e)** *n* is the number of contracted weeks, being 52 for a year-round engagement or the contracted number of weeks for a seasonal engagement.
@@ -120,13 +120,13 @@ With the fixed levers folded in (*u × h* = 26 per week), a year-round engagemen
 
 - **(a) Rounding.** Values are carried unrounded; only the annual result *A* is rounded, to the nearest [100].
 - **(b) Uplift.** The uplift *u* accounts for the absence of employment benefits, paid leave, and gaps between engagements; contracted time is not additionally discounted on those grounds.
-- **(c) Denomination.** The remuneration is denominated in U.S. dollars. The dollar amount due on an invoice is *A* apportioned to the period the invoice covers.
+- **(c) Denomination.** The remuneration is denominated in U.S. dollars or Euros. The dollar or euro amount due on an invoice is *A* apportioned to the period the invoice covers.
 - **(d) Conversion to Monero.** Where an invoice is settled in Monero, the amount payable is the dollar amount due divided by the reference rate *R*, then adjusted by the buffer in paragraph (e) —
-    - (i) *R* is the Simple Moving Average (50) of the XMR/USD price, calculated to the invoice's reference time, being [00:00 UTC] on the invoice date;
+    - (i) *R* is the Simple Moving Average (50) of the XMR/USD or XMR/EUR price, calculated to the invoice's reference time, being [00:00 UTC] on the invoice date;
     - (ii) *R* is taken from [Investing.com - Monero (XMR) Technical Analysis](https://www.investing.com/crypto/monero/technical), cross-checked against [Trading View - Technical Analysis of Monero (KRAKEN:XMRUSD)](https://www.tradingview.com/symbols/XMRUSD/technicals); where the two differ by more than [5]%, their median is used;
     - (iii) the value of *R*, the averaging window, the reference time, and a timestamped capture of each source are recorded in that disbursement's record; and
     - (iv) if a source becomes unavailable or its method changes materially, the Custodian substitutes the equivalent Simple Moving Average (50) from a comparable source and records the substitution.
-- **(e) Volatility buffer.** The Monero amount under paragraph (d) is increased by 10% as a reserve against price movement between the reference time and receipt. The Monero paid on an invoice is therefore 1.10 × (dollar amount due ÷ *R*).
+- **(e) Volatility buffer.** The Monero amount under paragraph (d) is increased by 10% as a reserve against price movement between the reference time and receipt. The Monero paid on an invoice is therefore 1.10 × (amount due ÷ *R*).
 
 ### 3. Amendment and confirmation
 
