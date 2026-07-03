@@ -2,7 +2,7 @@
 
 ## 1. Bodies and precedence
 
-**1.1** The organisation of each MoneroKon conference (an "Edition") is governed by three bodies: the Council (the "Body"), the Organiser (the "Executive") and Funds Management (the "Custodian").
+**1.1** The organisation of each MoneroKon conference (an "Edition") is governed by three bodies: the Council (the "Body"), the Organisation Team (the "Orga") and Funds Management (the "Custodian").
 
 **1.2** Where their decisions conflict, the Council prevails over the Organiser. The Council is the decision-maker for any matter this framework does not assign elsewhere.
 
@@ -28,23 +28,23 @@
 
 **2.8 Remuneration and expenses.** Service on the Council is unremunerated. A member may, however, be reimbursed for reasonable expenses properly incurred in the course of that service.
 
-## 3. The Organiser
+## 3. The Organisation Team
 
-**3.1 Role.** The Organiser plans and runs the day-to-day operation of each Edition, executing the decisions of the Council and the community.
+**3.1 Role.** The Organisation Team plans and runs the day-to-day operation of each Edition, executing the decisions of the Council and the community.
 
-**3.2 Scope.** The Organiser's duties are set out in Schedule 1, which the Council may amend by ordinary majority for each Edition.
+**3.2 Scope.** The Organisation Team's duties are set out in Schedule 1, which the Council may amend by ordinary majority for each Edition.
 
-**3.3 Appointment.** The Organiser is appointed by the Council by special majority for a given Edition. The role may be held by one or more legal or natural persons.
+**3.3 Appointment.** Members of the Organisation Team are appointed by the Council by special majority for a given Edition. The role may be held by one or more legal or natural persons.
 
-**3.4 Removal and resignation.** The Organiser may resign on reasonable notice. If the Organiser fails to carry out the duties in Schedule 1, the Council may remove them by special majority.
+**3.4 Removal and resignation.** Members of the Organisation Team may resign on reasonable notice. If an Organiser fails to carry out the duties in Schedule 1, the Council may remove them by special majority.
 
-**3.5 Limits.** The Organiser may incur and settle expenditure from the operating accounts within a budget approved by the Council. Expenditure that is major under clause 6 requires the Council's prior approval, and any release from the Fund requires the Custodian under clause 4. The Organiser holds no signing authority over the Fund.
+**3.5 Limits.** An Organiser may incur and settle expenditure from the operating accounts within a budget approved by the Council. Expenditure that is major under clause 6 requires the Council's prior approval, and any release from the Fund requires the Custodian under clause 4. The Organiser holds no signing authority over the Fund.
 
-**3.6 Remuneration.** The Organiser is remunerated for each Edition. The annual amount is determined by the formula in Schedule 2, and is approved by the Council as part of the budget for that Edition; being a major expenditure under clause 6, its approval requires a special majority (clause 2.7(b)). It is released by the Custodian in arrears against periodic invoices under clauses 4.2 and 6.4. A Council member who serves as Organiser takes no part in, and does not vote on, the determination of their own remuneration (clauses 5.1, 5.2).
+**3.6 Remuneration.** The Organisers are remunerated for each Edition. The annual amount is determined by the formula in Schedule 2, and is approved by the Council as part of the budget for that Edition; being a major expenditure under clause 6, its approval requires a special majority (clause 2.7(b)). It is released by the Custodian in arrears against periodic invoices under clauses 4.2 and 6.4. A Council member who serves as Organiser takes no part in, and does not vote on, the determination of their own remuneration (clauses 5.1, 5.2).
 
 ## 4. Funds Management
 
-**4.1 Role.** The Custodian holds the MoneroKon Fund and signs approved transactions. The Fund is distinct from the operating accounts and payment systems run by the Organiser. The Custodian has no authority over the decisions of MoneroKon; its function is custodial only.
+**4.1 Role.** The Custodian holds the MoneroKon Fund and signs approved transactions. The Fund is distinct from the operating accounts and payment systems run by the Organisation Team. The Custodian has no authority over the decisions of MoneroKon; its function is custodial only.
 
 **4.2 Release.** The Custodian releases funds where, and only where, (a) the expenditure has been approved by the Council, and (b) the Custodian has received documentation of the amount due, such as an invoice, quote, or receipt, consistent with that approval.
 
@@ -56,7 +56,7 @@
 
 ## 5. Separation of duties and conflicts
 
-**5.1 Incompatibility.** A member of the Council may also serve as the Organiser or as a Fund Signatory, but no person may serve as both the Organiser and a Fund Signatory at the same time. A Council member who serves as the Organiser does not vote on the appointment, removal, scope, budget, or remuneration of the Organiser. A Council member who is also a Fund Signatory does not vote on the Council's approval of any disbursement to which they would be a signatory. A member who recuses under this clause remains counted toward the quorum (clause 2.7) but not toward the vote in question.
+**5.1 Incompatibility.** A member of the Council may also serve as an Organiser or as a Fund Signatory, but no person may serve as both an Organiser and a Fund Signatory at the same time. A Council member who serves as an Organiser does not vote on the appointment, removal, scope, budget, or remuneration of the Organisation Team. A Council member who is also a Fund Signatory does not vote on the Council's approval of any disbursement to which they would be a signatory. A member who recuses under this clause remains counted toward the quorum (clause 2.7) but not toward the vote in question.
 
 **5.2 Recusal.** A Council member must declare any personal or financial interest in a matter before the Council, must not vote on it, and may be asked to withdraw from its discussion.
 
@@ -68,7 +68,7 @@
 
 **6.3 Sponsors.** Proposed sponsors are announced in #monerokon for a minimum objection period of one week before the Council confirms them. The Council must consider objections raised within that period. The selection of sponsors should be consistent with [MoneroKon Sponsorship Policy](https://github.com/MoneroKon/meta/blob/main/policies/sponsorship-policy.md).
 
-**6.4 Disbursement.** Approved expenditure is settled by the Organiser from the operating accounts within budget, or released by the Custodian from the Fund under clause 4. Recurring approved expenditure is disbursed against periodic invoices presented to the Custodian.
+**6.4 Disbursement.** Approved expenditure is settled by the Organisation Team from the operating accounts within budget, or released by the Custodian from the Fund under clause 4. Recurring approved expenditure is disbursed against periodic invoices presented to the Custodian.
 
 ## 7. General provisions
 
@@ -84,7 +84,7 @@
 
 ---
 
-## Schedule 1 — Organiser Scope of Work
+## Schedule 1 — Organisation Team Scope of Work
 
 - **Stakeholder coordination** — coordinate with the venue, suppliers, speakers, sponsors, and volunteers; liaise with speakers on schedules, travel, slides, bios, technical needs, and deadlines; communicate setup instructions and event-day logistics.
 - **Sponsors** — manage sponsor deliverables: booths, banners, logos, tickets, speaking slots, and promotional materials.
@@ -98,23 +98,20 @@
 
 ---
 
-## Schedule 2 — Organiser Remuneration
+## Schedule 2 — Organisation Team Remuneration
 
 ### 1. Formula
 
-The Organiser's annual remuneration for an Edition is
+Any member of the Organisation Team may be remunerated on an hourly basis for time worked.
 
-**A = W × F × u × h × n**
+**A = W × F × u × h**
 
 where —
 
 - **(a)** *W* is the applicable benchmark hourly labour rate at the time the budget for the Edition is approved. For an Organiser based in the United States, *W* is the [median hourly wage for “meeting, convention, and event planners”](https://www.bls.gov/ooh/Business-and-Financial/Meeting-convention-and-event-planners.htm) most recently published by the U.S. Bureau of Labor Statistics in its Occupational Outlook Handbook. For an Organiser based in the European Union, W is the average hourly labour cost in the Member State where the Organiser resides or is incorporated, as most recently reported by [Eurostat in its "Wages and labour costs" statistics⁠](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Wages_and_labour_costs#Labour_costs) report.
 - **(b)** *F* is the inflation factor from the wage or labour cost reference month to the Edition's reference month, calculated using CPI-U for a U.S. Organiser and Eurostat HICP for an EU Organiser. *F* equals 1 if the figure is already current to the Edition;
 - **(c)** *u* is the contractor uplift, fixed at 1.30;
-- **(d)** *h* is the contracted hours per week, being 20 unless the Council sets a different figure for the Edition; and
-- **(e)** *n* is the number of contracted weeks, being 52 for a year-round engagement or the contracted number of weeks for a seasonal engagement.
-
-With the fixed levers folded in (*u × h* = 26 per week), a year-round engagement reduces to **A = W × F × 1,352**.
+- **(d)** *h* is the hours worked.
 
 ### 2. Conventions
 
@@ -130,7 +127,7 @@ With the fixed levers folded in (*u × h* = 26 per week), a year-round engagemen
 
 ### 3. Amendment and confirmation
 
-Changing the structure of the formula, the basis of *W*, or the value of *u* or the buffer is an amendment of this Framework (clause 7.1). Confirming the values of *W*, *F*, *h*, and *n* for an Edition, and recording *R* at each disbursement, is ordinary business under clause 3.6 and the Custodian's mechanics, and does not require amendment.
+Changing the structure of the formula, the basis of *W*, or the value of *u* or the buffer is an amendment of this Framework (clause 7.1). Confirming the values of *W*, *F*, *h for an Edition, and recording *R* at each disbursement, is ordinary business under clause 3.6 and the Custodian's mechanics, and does not require amendment.
 
 ### 4. Determination
 
